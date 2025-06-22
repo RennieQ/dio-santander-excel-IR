@@ -12,7 +12,7 @@ A aplicação foi criada em Excel, estruturada com menus de navegação, valida�
 ## 🎨Imagens da aplicação
 ![Logo da aplicação](https://github.com/RennieQ/dio-santander-excel-IR/blob/main/images/DIO_Lionapp_logo.png)
 
-![Página de dados Pessoa Física](https://github.com/RennieQ/dio-santander-excel-IR/blob/main/images/DIO_Lionapp1.png)
+![Página de dados Pessoa Física](https://github.com/RennieQ/dio-santander-excel-IR/blob/main/images/DIO_Lionapp.png)
 
 ![Página de dados bancários](https://github.com/RennieQ/dio-santander-excel-IR/blob/main/images/DIO_Lionapp2.png)
 

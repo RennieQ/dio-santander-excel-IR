@@ -10,13 +10,13 @@ A aplicação foi criada em Excel, estruturada com menus de navegação, valida�
 - Excel
 
 ## 🎨Imagens da aplicação
-![Logo da aplicação](https://github.com/RennieQ/dio-santander-excel-IR/blob/main/images/DIO_Lionapp_logo)
+![Logo da aplicação](https://github.com/RennieQ/dio-santander-excel-IR/blob/main/images/DIO_Lionapp_logo.png)
 
-![Página de dados Pessoa Física](https://github.com/RennieQ/dio-santander-excel-IR/blob/main/images/DIO_Lionapp1)
+![Página de dados Pessoa Física](https://github.com/RennieQ/dio-santander-excel-IR/blob/main/images/DIO_Lionapp1.png)
 
-![Página de dados bancários](https://github.com/RennieQ/dio-santander-excel-IR/blob/main/images/DIO_Lionapp2)
+![Página de dados bancários](https://github.com/RennieQ/dio-santander-excel-IR/blob/main/images/DIO_Lionapp2.png)
 
-![Página de dados da receita](https://github.com/RennieQ/dio-santander-excel-IR/blob/main/images/DIO_Lionapp3)
+![Página de dados da receita](https://github.com/RennieQ/dio-santander-excel-IR/blob/main/images/DIO_Lionapp3.png)
 
 ## 🔎Referências
 
